@@ -1,0 +1,6 @@
+{
+    "require-dev": {
+        "mysql-workbench-schema-exporter/mysql-workbench-schema-exporter": "dev-master"
+    },
+    "minimum-stability": "dev"
+}
